@@ -1,0 +1,481 @@
+ProductID,Category,Subcategory,Brand,ProductName,UnitCost,RetailPrice,LaunchDate,ProductStatus
+P0001,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 001,24.63,35.77,2020-10-11,Active
+P0002,Electronics,Computers,NovaTech,NovaTech Computers 002,39.05,57.02,2018-05-20,Active
+P0003,Furniture,Living Room,WorkNest,WorkNest Living Room 003,217.82,320.25,2022-10-12,Active
+P0004,Office Supplies,Paper,Sorta,Sorta Paper 004,1.39,3.0,2021-10-18,Active
+P0005,Furniture,Living Room,Linea,Linea Living Room 005,189.71,300.25,2019-11-01,Active
+P0006,Home & Living,Storage,Nestwell,Nestwell Storage 006,8.49,12.0,2020-11-02,Active
+P0007,Furniture,Desks,Linea,Linea Desks 007,53.78,80.0,2023-06-24,Active
+P0008,Home & Living,Bedding,Luma,Luma Bedding 008,26.85,45.25,2019-03-03,Active
+P0009,Office Supplies,Organisation,InkLab,InkLab Organisation 009,6.8,10.23,2022-12-12,Active
+P0010,Electronics,Audio,Axiom,Axiom Audio 010,77.83,94.35,2021-10-07,Active
+P0011,Office Supplies,Paper,InkLab,InkLab Paper 011,8.27,13.68,2021-08-30,Active
+P0012,Electronics,Smart Home,Axiom,Axiom Smart Home 012,30.62,35.0,2021-12-28,Active
+P0013,Kitchen,Appliances,HomeChef,HomeChef Appliances 013,4.53,8.0,2019-05-26,Active
+P0014,Home & Living,Bedding,Casa,Casa Bedding 014,16.34,29.43,2018-06-25,Active
+P0015,Kitchen,Dining,FreshKeep,FreshKeep Dining 015,10.39,18.39,2018-02-04,Discontinued
+P0016,Sports & Outdoor,Camping,Peak,Peak Camping 016,11.18,15.0,2020-03-16,Active
+P0017,Electronics,Smart Home,Axiom,Axiom Smart Home 017,409.29,549.47,2023-12-08,Discontinued
+P0018,Home & Living,Bedding,Haven,Haven Bedding 018,22.13,37.55,2024-05-01,Active
+P0019,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 019,110.84,152.27,2023-11-30,Active
+P0020,Electronics,Audio,Orbit,Orbit Audio 020,143.28,180.96,2019-08-18,Active
+P0021,Electronics,Mobile Accessories,NovaTech,NovaTech Mobile Accessories 021,92.71,113.86,2018-09-20,Active
+P0022,Sports & Outdoor,Camping,Endura,Endura Camping 022,11.14,20.3,2020-12-19,Active
+P0023,Furniture,Chairs,Cove,Cove Chairs 023,638.06,807.22,2024-06-15,Active
+P0024,Furniture,Shelving,Form & Co,Form & Co Shelving 024,151.16,206.41,2024-04-13,Active
+P0025,Electronics,Audio,Vertex,Vertex Audio 025,25.44,35.19,2022-04-03,Active
+P0026,Sports & Outdoor,Camping,Endura,Endura Camping 026,10.81,20.69,2025-03-02,Active
+P0027,Kitchen,Appliances,Kora,Kora Appliances 027,4.4,8.0,2023-12-20,Active
+P0028,Office Supplies,Printing,Sorta,Sorta Printing 028,1.55,3.0,2020-03-13,Active
+P0029,Office Supplies,Paper,InkLab,InkLab Paper 029,2.18,4.48,2022-11-22,Active
+P0030,Kitchen,Dining,Table & Co,Table & Co Dining 030,35.77,56.78,2025-04-03,Active
+P0031,Furniture,Shelving,Cove,Cove Shelving 031,287.83,392.9,2021-04-12,Active
+P0032,Sports & Outdoor,Team Sports,Velocity,Velocity Team Sports 032,37.55,63.26,2023-10-19,Discontinued
+P0033,Home & Living,Decor,Haven,Haven Decor 033,39.54,63.92,2024-02-12,Active
+P0034,Kitchen,Cookware,HomeChef,HomeChef Cookware 034,53.12,73.86,2024-07-24,Active
+P0035,Furniture,Chairs,Form & Co,Form & Co Chairs 035,86.02,122.88,2024-07-20,Active
+P0036,Furniture,Chairs,Form & Co,Form & Co Chairs 036,229.16,381.7,2021-06-04,Active
+P0037,Home & Living,Bedding,Haven,Haven Bedding 037,53.1,76.91,2018-04-01,Active
+P0038,Sports & Outdoor,Cycling,Peak,Peak Cycling 038,26.49,36.83,2019-03-06,Active
+P0039,Home & Living,Storage,Oak & Ivy,Oak & Ivy Storage 039,8.07,12.0,2017-01-22,Active
+P0040,Kitchen,Food Storage,Kora,Kora Food Storage 040,31.91,43.19,2023-04-06,Active
+P0041,Home & Living,Bedding,Casa,Casa Bedding 041,6.87,12.0,2019-02-28,Active
+P0042,Furniture,Desks,Form & Co,Form & Co Desks 042,81.66,117.35,2022-11-11,Active
+P0043,Sports & Outdoor,Fitness,Endura,Endura Fitness 043,17.83,29.67,2023-10-28,Active
+P0044,Sports & Outdoor,Camping,Motion,Motion Camping 044,9.82,17.91,2022-06-15,Active
+P0045,Kitchen,Appliances,Kora,Kora Appliances 045,5.31,8.0,2018-12-27,Active
+P0046,Home & Living,Decor,Casa,Casa Decor 046,16.91,26.25,2018-10-19,Active
+P0047,Furniture,Shelving,Cove,Cove Shelving 047,141.75,219.22,2022-04-11,Seasonal
+P0048,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 048,37.02,44.81,2022-11-25,Discontinued
+P0049,Sports & Outdoor,Team Sports,Endura,Endura Team Sports 049,21.23,39.43,2024-12-17,Active
+P0050,Kitchen,Appliances,HomeChef,HomeChef Appliances 050,20.97,33.39,2021-03-10,Active
+P0051,Home & Living,Lighting,Luma,Luma Lighting 051,10.28,16.55,2017-07-13,Seasonal
+P0052,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 052,22.44,35.57,2017-01-21,Active
+P0053,Electronics,Smart Home,Pulse,Pulse Smart Home 053,37.85,53.32,2021-09-15,Active
+P0054,Furniture,Shelving,Linea,Linea Shelving 054,359.77,577.48,2017-02-16,Active
+P0055,Office Supplies,Printing,WriteRight,WriteRight Printing 055,19.74,29.99,2021-04-19,Active
+P0056,Electronics,Computers,Pulse,Pulse Computers 056,184.71,241.38,2025-09-15,Active
+P0057,Kitchen,Dining,Savour,Savour Dining 057,18.5,28.54,2020-02-27,Seasonal
+P0058,Home & Living,Storage,Oak & Ivy,Oak & Ivy Storage 058,59.82,119.42,2023-03-03,Active
+P0059,Office Supplies,Printing,WriteRight,WriteRight Printing 059,4.48,7.95,2022-08-26,Active
+P0060,Furniture,Shelving,Form & Co,Form & Co Shelving 060,70.12,91.03,2024-03-28,Active
+P0061,Electronics,Smart Home,Orbit,Orbit Smart Home 061,48.2,69.61,2020-04-11,Active
+P0062,Sports & Outdoor,Camping,Endura,Endura Camping 062,42.08,69.09,2018-11-13,Active
+P0063,Kitchen,Food Storage,Table & Co,Table & Co Food Storage 063,22.81,39.19,2023-06-12,Active
+P0064,Sports & Outdoor,Cycling,Motion,Motion Cycling 064,46.64,65.65,2020-07-25,Active
+P0065,Electronics,Mobile Accessories,Pulse,Pulse Mobile Accessories 065,59.28,69.63,2023-06-24,Active
+P0066,Home & Living,Decor,Oak & Ivy,Oak & Ivy Decor 066,15.53,27.41,2017-05-13,Active
+P0067,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 067,17.27,24.06,2018-02-08,Active
+P0068,Office Supplies,Paper,PaperTrail,PaperTrail Paper 068,1.67,3.0,2017-12-21,Active
+P0069,Home & Living,Lighting,Luma,Luma Lighting 069,32.32,48.04,2022-10-04,Active
+P0070,Office Supplies,Printing,ProDesk,ProDesk Printing 070,1.42,3.25,2024-01-01,Active
+P0071,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 071,19.16,27.29,2017-10-13,Active
+P0072,Electronics,Computers,Orbit,Orbit Computers 072,24.67,35.0,2023-02-13,Active
+P0073,Kitchen,Appliances,FreshKeep,FreshKeep Appliances 073,4.36,8.0,2020-05-19,Active
+P0074,Furniture,Living Room,Linea,Linea Living Room 074,138.24,213.83,2021-12-10,Active
+P0075,Kitchen,Cookware,Savour,Savour Cookware 075,6.63,11.51,2017-03-10,Active
+P0076,Electronics,Mobile Accessories,Orbit,Orbit Mobile Accessories 076,71.31,103.29,2017-03-24,Active
+P0077,Home & Living,Bedding,Luma,Luma Bedding 077,9.0,18.6,2017-07-12,Active
+P0078,Electronics,Mobile Accessories,Vertex,Vertex Mobile Accessories 078,195.19,275.29,2023-09-17,Discontinued
+P0079,Furniture,Shelving,WorkNest,WorkNest Shelving 079,125.57,193.79,2022-06-16,Active
+P0080,Office Supplies,Organisation,Sorta,Sorta Organisation 080,4.86,7.92,2022-08-15,Active
+P0081,Kitchen,Food Storage,Savour,Savour Food Storage 081,15.14,22.13,2020-03-30,Active
+P0082,Home & Living,Storage,Casa,Casa Storage 082,29.31,50.12,2020-09-24,Active
+P0083,Sports & Outdoor,Camping,Velocity,Velocity Camping 083,21.1,33.45,2023-09-22,Active
+P0084,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 084,22.88,31.29,2023-03-16,Active
+P0085,Kitchen,Cookware,Savour,Savour Cookware 085,8.91,16.5,2018-08-20,Active
+P0086,Office Supplies,Paper,Sorta,Sorta Paper 086,9.97,23.38,2025-04-18,Seasonal
+P0087,Sports & Outdoor,Camping,Endura,Endura Camping 087,32.6,62.59,2024-06-25,Active
+P0088,Home & Living,Storage,Nestwell,Nestwell Storage 088,7.94,14.03,2024-04-05,Active
+P0089,Kitchen,Food Storage,Kora,Kora Food Storage 089,4.87,8.0,2025-05-18,Active
+P0090,Home & Living,Storage,Haven,Haven Storage 090,14.52,29.82,2022-10-11,Active
+P0091,Office Supplies,Stationery,WriteRight,WriteRight Stationery 091,4.39,8.12,2018-09-30,Active
+P0092,Furniture,Shelving,Linea,Linea Shelving 092,89.29,132.03,2017-10-21,Active
+P0093,Sports & Outdoor,Team Sports,Endura,Endura Team Sports 093,17.57,25.38,2020-03-05,Active
+P0094,Kitchen,Cookware,Kora,Kora Cookware 094,15.16,24.4,2023-07-24,Active
+P0095,Sports & Outdoor,Cycling,Peak,Peak Cycling 095,7.94,15.0,2020-01-26,Active
+P0096,Office Supplies,Printing,Sorta,Sorta Printing 096,2.29,3.94,2024-11-15,Active
+P0097,Furniture,Chairs,Form & Co,Form & Co Chairs 097,92.45,126.43,2024-12-11,Active
+P0098,Kitchen,Food Storage,Kora,Kora Food Storage 098,5.19,8.0,2025-06-13,Active
+P0099,Furniture,Chairs,Linea,Linea Chairs 099,53.65,80.0,2018-10-10,Active
+P0100,Furniture,Shelving,Cove,Cove Shelving 100,69.52,91.04,2020-10-30,Active
+P0101,Home & Living,Lighting,Casa,Casa Lighting 101,16.58,26.36,2022-01-31,Active
+P0102,Office Supplies,Paper,WriteRight,WriteRight Paper 102,3.81,6.31,2018-05-20,Active
+P0103,Kitchen,Cookware,HomeChef,HomeChef Cookware 103,9.79,13.45,2020-03-31,Active
+P0104,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 104,56.48,73.06,2022-09-26,Active
+P0105,Home & Living,Lighting,Casa,Casa Lighting 105,17.77,27.11,2018-04-16,Active
+P0106,Furniture,Shelving,Northwood,Northwood Shelving 106,122.06,176.82,2019-02-01,Active
+P0107,Sports & Outdoor,Team Sports,Endura,Endura Team Sports 107,13.79,26.03,2018-06-01,Active
+P0108,Office Supplies,Paper,WriteRight,WriteRight Paper 108,2.37,4.54,2025-02-13,Active
+P0109,Home & Living,Decor,Luma,Luma Decor 109,13.09,20.29,2019-03-31,Active
+P0110,Kitchen,Cookware,Savour,Savour Cookware 110,10.44,14.47,2019-10-08,Active
+P0111,Kitchen,Food Storage,Savour,Savour Food Storage 111,5.8,10.35,2021-06-11,Active
+P0112,Electronics,Computers,NovaTech,NovaTech Computers 112,51.51,69.53,2018-05-09,Active
+P0113,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 113,7.69,12.0,2022-11-06,Active
+P0114,Sports & Outdoor,Fitness,Velocity,Velocity Fitness 114,38.41,53.43,2018-07-11,Active
+P0115,Kitchen,Dining,Savour,Savour Dining 115,10.28,18.75,2023-07-25,Active
+P0116,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 116,25.09,42.61,2017-08-19,Active
+P0117,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 117,40.37,57.69,2018-03-19,Discontinued
+P0118,Kitchen,Cookware,Savour,Savour Cookware 118,5.09,8.56,2024-04-07,Active
+P0119,Kitchen,Appliances,HomeChef,HomeChef Appliances 119,14.14,27.76,2021-02-13,Discontinued
+P0120,Electronics,Audio,Orbit,Orbit Audio 120,27.07,35.0,2017-05-07,Active
+P0121,Kitchen,Cookware,Table & Co,Table & Co Cookware 121,18.47,36.3,2025-07-04,Active
+P0122,Sports & Outdoor,Cycling,Endura,Endura Cycling 122,14.68,21.04,2019-10-15,Active
+P0123,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 123,11.38,23.38,2023-02-07,Active
+P0124,Sports & Outdoor,Team Sports,Velocity,Velocity Team Sports 124,36.32,62.51,2020-04-28,Active
+P0125,Sports & Outdoor,Cycling,Peak,Peak Cycling 125,15.35,24.13,2024-07-17,Active
+P0126,Home & Living,Storage,Luma,Luma Storage 126,11.5,20.02,2021-06-01,Active
+P0127,Furniture,Living Room,Cove,Cove Living Room 127,73.23,96.97,2017-12-20,Active
+P0128,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 128,12.74,24.15,2024-06-12,Active
+P0129,Office Supplies,Printing,WriteRight,WriteRight Printing 129,1.76,3.0,2022-04-27,Active
+P0130,Furniture,Desks,Form & Co,Form & Co Desks 130,111.46,165.99,2025-01-31,Active
+P0131,Office Supplies,Organisation,Sorta,Sorta Organisation 131,2.02,3.0,2023-02-14,Active
+P0132,Electronics,Mobile Accessories,Pulse,Pulse Mobile Accessories 132,26.57,35.0,2024-03-08,Active
+P0133,Home & Living,Storage,Luma,Luma Storage 133,10.03,19.47,2019-07-27,Active
+P0134,Sports & Outdoor,Team Sports,Endura,Endura Team Sports 134,88.75,149.39,2025-07-17,Active
+P0135,Sports & Outdoor,Cycling,Peak,Peak Cycling 135,21.14,40.4,2022-10-06,Active
+P0136,Home & Living,Bedding,Oak & Ivy,Oak & Ivy Bedding 136,38.3,77.6,2024-09-29,Active
+P0137,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 137,10.43,17.3,2024-05-26,Active
+P0138,Office Supplies,Paper,InkLab,InkLab Paper 138,4.71,8.31,2022-03-28,Active
+P0139,Sports & Outdoor,Camping,Peak,Peak Camping 139,15.26,23.06,2022-07-29,Active
+P0140,Kitchen,Appliances,Savour,Savour Appliances 140,4.4,8.0,2018-01-18,Active
+P0141,Home & Living,Storage,Haven,Haven Storage 141,17.45,25.85,2020-10-30,Active
+P0142,Electronics,Smart Home,NovaTech,NovaTech Smart Home 142,25.24,35.0,2023-03-01,Active
+P0143,Sports & Outdoor,Fitness,Endura,Endura Fitness 143,31.97,50.46,2022-12-05,Discontinued
+P0144,Electronics,Audio,NovaTech,NovaTech Audio 144,137.91,161.88,2020-07-18,Active
+P0145,Office Supplies,Printing,InkLab,InkLab Printing 145,1.33,3.0,2025-07-30,Active
+P0146,Office Supplies,Printing,Sorta,Sorta Printing 146,9.07,18.21,2022-06-18,Active
+P0147,Sports & Outdoor,Cycling,Peak,Peak Cycling 147,23.48,32.05,2018-06-22,Active
+P0148,Home & Living,Bedding,Nestwell,Nestwell Bedding 148,40.62,58.48,2023-07-15,Active
+P0149,Electronics,Smart Home,Vertex,Vertex Smart Home 149,24.42,35.0,2023-05-31,Seasonal
+P0150,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 150,28.79,41.88,2017-11-19,Active
+P0151,Home & Living,Decor,Haven,Haven Decor 151,33.43,68.54,2019-01-29,Active
+P0152,Furniture,Living Room,Form & Co,Form & Co Living Room 152,111.57,151.8,2017-05-11,Active
+P0153,Office Supplies,Printing,ProDesk,ProDesk Printing 153,17.81,38.05,2025-05-17,Active
+P0154,Home & Living,Bedding,Casa,Casa Bedding 154,32.18,65.98,2020-06-09,Active
+P0155,Office Supplies,Printing,PaperTrail,PaperTrail Printing 155,1.53,3.0,2022-10-03,Active
+P0156,Office Supplies,Paper,Sorta,Sorta Paper 156,2.09,4.15,2020-03-09,Active
+P0157,Electronics,Mobile Accessories,NovaTech,NovaTech Mobile Accessories 157,216.54,257.72,2019-03-23,Active
+P0158,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 158,22.92,33.33,2019-04-23,Active
+P0159,Office Supplies,Printing,WriteRight,WriteRight Printing 159,1.68,3.0,2023-03-13,Active
+P0160,Home & Living,Decor,Haven,Haven Decor 160,47.38,98.53,2021-03-29,Active
+P0161,Kitchen,Appliances,HomeChef,HomeChef Appliances 161,11.47,17.88,2023-11-15,Seasonal
+P0162,Sports & Outdoor,Cycling,Endura,Endura Cycling 162,10.08,15.0,2020-01-23,Active
+P0163,Kitchen,Dining,Kora,Kora Dining 163,8.16,11.8,2017-02-21,Discontinued
+P0164,Kitchen,Food Storage,Kora,Kora Food Storage 164,15.27,26.09,2025-08-04,Active
+P0165,Electronics,Computers,Pulse,Pulse Computers 165,27.11,35.0,2019-10-08,Active
+P0166,Office Supplies,Stationery,PaperTrail,PaperTrail Stationery 166,2.0,3.0,2022-12-20,Active
+P0167,Electronics,Smart Home,Axiom,Axiom Smart Home 167,44.52,60.47,2020-02-03,Active
+P0168,Home & Living,Storage,Haven,Haven Storage 168,13.58,20.53,2024-09-05,Active
+P0169,Sports & Outdoor,Team Sports,Velocity,Velocity Team Sports 169,132.41,190.55,2024-05-02,Discontinued
+P0170,Kitchen,Appliances,Kora,Kora Appliances 170,21.85,32.83,2024-01-30,Active
+P0171,Electronics,Computers,Pulse,Pulse Computers 171,26.92,35.0,2025-02-16,Active
+P0172,Furniture,Living Room,Northwood,Northwood Living Room 172,106.57,138.57,2020-10-09,Active
+P0173,Sports & Outdoor,Fitness,TrailPro,TrailPro Fitness 173,14.7,21.21,2017-04-23,Active
+P0174,Furniture,Shelving,Form & Co,Form & Co Shelving 174,232.86,384.72,2020-06-09,Active
+P0175,Sports & Outdoor,Camping,Motion,Motion Camping 175,43.42,60.7,2020-11-07,Active
+P0176,Furniture,Desks,WorkNest,WorkNest Desks 176,209.8,279.63,2022-07-04,Active
+P0177,Furniture,Shelving,WorkNest,WorkNest Shelving 177,137.63,200.23,2023-03-07,Active
+P0178,Furniture,Shelving,WorkNest,WorkNest Shelving 178,68.57,92.16,2024-01-31,Active
+P0179,Kitchen,Cookware,FreshKeep,FreshKeep Cookware 179,8.66,13.75,2020-12-21,Active
+P0180,Home & Living,Decor,Haven,Haven Decor 180,7.95,12.0,2021-12-03,Active
+P0181,Home & Living,Bedding,Oak & Ivy,Oak & Ivy Bedding 181,17.9,28.75,2020-06-26,Active
+P0182,Furniture,Shelving,Northwood,Northwood Shelving 182,203.74,349.64,2017-06-18,Active
+P0183,Office Supplies,Printing,Sorta,Sorta Printing 183,2.66,5.34,2020-04-09,Active
+P0184,Kitchen,Cookware,Savour,Savour Cookware 184,19.63,28.8,2021-10-26,Active
+P0185,Electronics,Computers,NovaTech,NovaTech Computers 185,61.22,89.42,2024-09-16,Active
+P0186,Furniture,Shelving,Form & Co,Form & Co Shelving 186,49.2,80.0,2017-11-28,Seasonal
+P0187,Home & Living,Lighting,Casa,Casa Lighting 187,8.56,12.0,2023-03-19,Active
+P0188,Furniture,Living Room,Northwood,Northwood Living Room 188,54.39,80.0,2024-03-28,Active
+P0189,Home & Living,Storage,Luma,Luma Storage 189,18.61,37.34,2024-11-27,Active
+P0190,Electronics,Smart Home,Orbit,Orbit Smart Home 190,378.83,443.11,2023-04-04,Active
+P0191,Office Supplies,Organisation,PaperTrail,PaperTrail Organisation 191,4.38,6.88,2017-06-15,Active
+P0192,Electronics,Mobile Accessories,Pulse,Pulse Mobile Accessories 192,94.49,127.5,2019-05-04,Active
+P0193,Electronics,Smart Home,Axiom,Axiom Smart Home 193,202.19,231.16,2021-05-23,Active
+P0194,Home & Living,Lighting,Nestwell,Nestwell Lighting 194,39.86,77.67,2019-11-03,Active
+P0195,Electronics,Computers,Orbit,Orbit Computers 195,104.42,142.61,2018-05-31,Active
+P0196,Office Supplies,Organisation,PaperTrail,PaperTrail Organisation 196,2.23,4.47,2025-07-20,Active
+P0197,Home & Living,Decor,Nestwell,Nestwell Decor 197,16.04,27.15,2021-09-28,Active
+P0198,Furniture,Shelving,Form & Co,Form & Co Shelving 198,69.35,115.35,2024-07-29,Active
+P0199,Sports & Outdoor,Camping,Endura,Endura Camping 199,10.65,15.0,2018-08-05,Active
+P0200,Sports & Outdoor,Cycling,Endura,Endura Cycling 200,10.08,15.0,2017-06-13,Active
+P0201,Office Supplies,Organisation,Sorta,Sorta Organisation 201,4.65,10.03,2018-03-18,Active
+P0202,Office Supplies,Printing,Sorta,Sorta Printing 202,9.85,14.7,2018-05-08,Active
+P0203,Electronics,Audio,Orbit,Orbit Audio 203,36.42,45.43,2017-09-30,Active
+P0204,Sports & Outdoor,Fitness,TrailPro,TrailPro Fitness 204,11.11,15.0,2021-06-25,Active
+P0205,Office Supplies,Organisation,ProDesk,ProDesk Organisation 205,1.79,3.0,2017-05-25,Active
+P0206,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 206,10.04,15.0,2017-05-09,Active
+P0207,Electronics,Mobile Accessories,Pulse,Pulse Mobile Accessories 207,25.92,35.0,2022-11-30,Active
+P0208,Home & Living,Storage,Casa,Casa Storage 208,16.3,27.32,2020-02-07,Active
+P0209,Electronics,Smart Home,Vertex,Vertex Smart Home 209,40.36,49.7,2018-04-17,Active
+P0210,Home & Living,Lighting,Casa,Casa Lighting 210,8.22,12.0,2024-03-29,Active
+P0211,Kitchen,Cookware,HomeChef,HomeChef Cookware 211,12.71,20.33,2023-05-17,Active
+P0212,Electronics,Audio,Vertex,Vertex Audio 212,56.39,64.53,2017-02-26,Active
+P0213,Home & Living,Decor,Casa,Casa Decor 213,9.61,16.2,2017-05-11,Active
+P0214,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 214,9.62,15.0,2018-07-12,Active
+P0215,Sports & Outdoor,Camping,Peak,Peak Camping 215,30.63,46.91,2021-05-19,Active
+P0216,Office Supplies,Printing,WriteRight,WriteRight Printing 216,1.81,3.6,2021-12-31,Active
+P0217,Home & Living,Lighting,Luma,Luma Lighting 217,20.37,33.57,2025-01-18,Active
+P0218,Home & Living,Lighting,Casa,Casa Lighting 218,8.55,14.78,2019-08-21,Active
+P0219,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 219,13.72,18.84,2022-09-06,Active
+P0220,Electronics,Computers,Orbit,Orbit Computers 220,45.33,54.52,2022-10-23,Active
+P0221,Office Supplies,Paper,WriteRight,WriteRight Paper 221,1.67,3.89,2017-04-23,Active
+P0222,Electronics,Computers,Vertex,Vertex Computers 222,64.66,77.61,2022-05-03,Active
+P0223,Kitchen,Appliances,Table & Co,Table & Co Appliances 223,4.95,8.0,2020-11-09,Active
+P0224,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 224,14.03,26.01,2017-09-03,Active
+P0225,Home & Living,Bedding,Haven,Haven Bedding 225,258.88,394.54,2025-01-06,Active
+P0226,Electronics,Mobile Accessories,Vertex,Vertex Mobile Accessories 226,53.37,68.07,2021-01-26,Active
+P0227,Kitchen,Dining,Kora,Kora Dining 227,4.26,8.0,2021-04-03,Active
+P0228,Kitchen,Dining,Savour,Savour Dining 228,98.3,140.7,2022-01-18,Active
+P0229,Home & Living,Lighting,Luma,Luma Lighting 229,5.93,12.0,2020-08-10,Active
+P0230,Office Supplies,Organisation,WriteRight,WriteRight Organisation 230,2.45,5.44,2018-04-23,Discontinued
+P0231,Furniture,Chairs,Cove,Cove Chairs 231,99.75,131.98,2020-02-29,Active
+P0232,Home & Living,Lighting,Haven,Haven Lighting 232,12.24,18.22,2024-05-11,Active
+P0233,Office Supplies,Organisation,WriteRight,WriteRight Organisation 233,2.72,4.65,2023-03-27,Active
+P0234,Home & Living,Lighting,Luma,Luma Lighting 234,55.89,82.32,2019-05-27,Active
+P0235,Sports & Outdoor,Cycling,Velocity,Velocity Cycling 235,10.34,19.43,2019-09-28,Active
+P0236,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 236,12.66,19.06,2021-10-20,Active
+P0237,Home & Living,Bedding,Luma,Luma Bedding 237,6.5,12.0,2019-07-18,Active
+P0238,Furniture,Chairs,Form & Co,Form & Co Chairs 238,60.26,85.88,2023-04-22,Active
+P0239,Electronics,Smart Home,Vertex,Vertex Smart Home 239,65.97,86.11,2018-10-29,Active
+P0240,Electronics,Audio,Vertex,Vertex Audio 240,282.36,333.08,2022-08-27,Active
+P0241,Office Supplies,Paper,WriteRight,WriteRight Paper 241,4.37,9.28,2024-04-24,Active
+P0242,Sports & Outdoor,Cycling,Velocity,Velocity Cycling 242,13.04,18.44,2023-11-07,Active
+P0243,Office Supplies,Printing,WriteRight,WriteRight Printing 243,6.46,11.77,2025-04-29,Active
+P0244,Sports & Outdoor,Camping,Endura,Endura Camping 244,18.74,29.04,2020-02-24,Active
+P0245,Electronics,Computers,Vertex,Vertex Computers 245,27.75,35.0,2019-04-12,Active
+P0246,Office Supplies,Paper,InkLab,InkLab Paper 246,2.02,3.12,2019-05-16,Active
+P0247,Office Supplies,Printing,PaperTrail,PaperTrail Printing 247,11.82,18.25,2024-08-04,Active
+P0248,Electronics,Smart Home,Pulse,Pulse Smart Home 248,27.77,35.0,2019-06-26,Seasonal
+P0249,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 249,35.94,57.54,2021-10-10,Active
+P0250,Kitchen,Dining,Table & Co,Table & Co Dining 250,17.96,35.52,2022-08-21,Active
+P0251,Home & Living,Bedding,Luma,Luma Bedding 251,6.12,12.0,2020-10-04,Active
+P0252,Electronics,Smart Home,NovaTech,NovaTech Smart Home 252,39.16,46.45,2024-04-02,Active
+P0253,Electronics,Computers,Orbit,Orbit Computers 253,38.83,50.62,2019-01-24,Active
+P0254,Furniture,Chairs,Northwood,Northwood Chairs 254,60.0,80.0,2022-02-09,Active
+P0255,Kitchen,Dining,Table & Co,Table & Co Dining 255,15.12,22.55,2018-04-03,Active
+P0256,Kitchen,Food Storage,HomeChef,HomeChef Food Storage 256,12.45,18.48,2022-07-31,Active
+P0257,Office Supplies,Printing,ProDesk,ProDesk Printing 257,1.31,3.0,2022-10-18,Active
+P0258,Home & Living,Lighting,Haven,Haven Lighting 258,6.36,12.0,2023-07-30,Active
+P0259,Furniture,Living Room,Form & Co,Form & Co Living Room 259,96.85,146.13,2022-10-13,Active
+P0260,Electronics,Computers,NovaTech,NovaTech Computers 260,522.0,675.06,2022-05-26,Active
+P0261,Electronics,Smart Home,Axiom,Axiom Smart Home 261,51.52,73.11,2023-03-16,Active
+P0262,Sports & Outdoor,Fitness,Motion,Motion Fitness 262,94.51,156.37,2021-01-29,Active
+P0263,Kitchen,Appliances,Kora,Kora Appliances 263,26.6,51.27,2024-04-08,Active
+P0264,Office Supplies,Printing,Sorta,Sorta Printing 264,2.63,5.21,2022-07-31,Active
+P0265,Furniture,Living Room,Cove,Cove Living Room 265,79.19,100.62,2023-11-01,Active
+P0266,Electronics,Computers,Vertex,Vertex Computers 266,53.79,68.86,2019-03-29,Active
+P0267,Home & Living,Lighting,Casa,Casa Lighting 267,27.69,41.97,2021-06-02,Active
+P0268,Electronics,Computers,Axiom,Axiom Computers 268,74.09,84.74,2019-06-20,Active
+P0269,Home & Living,Bedding,Nestwell,Nestwell Bedding 269,7.39,12.0,2024-11-05,Active
+P0270,Home & Living,Storage,Luma,Luma Storage 270,27.67,50.63,2018-10-29,Active
+P0271,Kitchen,Food Storage,Table & Co,Table & Co Food Storage 271,5.31,8.0,2020-05-23,Active
+P0272,Furniture,Living Room,Linea,Linea Living Room 272,53.4,80.0,2025-03-27,Active
+P0273,Electronics,Smart Home,Axiom,Axiom Smart Home 273,27.84,35.0,2021-09-28,Active
+P0274,Electronics,Audio,NovaTech,NovaTech Audio 274,156.78,188.55,2025-05-23,Active
+P0275,Sports & Outdoor,Team Sports,Endura,Endura Team Sports 275,19.54,31.19,2018-06-22,Active
+P0276,Sports & Outdoor,Cycling,Endura,Endura Cycling 276,26.24,38.11,2020-04-12,Active
+P0277,Sports & Outdoor,Fitness,Endura,Endura Fitness 277,23.34,36.85,2018-07-18,Active
+P0278,Sports & Outdoor,Cycling,Motion,Motion Cycling 278,19.9,30.86,2019-11-25,Active
+P0279,Electronics,Computers,Orbit,Orbit Computers 279,36.33,51.42,2020-10-20,Active
+P0280,Furniture,Shelving,Linea,Linea Shelving 280,210.02,337.81,2020-06-01,Active
+P0281,Electronics,Mobile Accessories,Vertex,Vertex Mobile Accessories 281,84.62,100.69,2021-11-20,Active
+P0282,Home & Living,Decor,Casa,Casa Decor 282,41.14,78.51,2021-07-07,Active
+P0283,Sports & Outdoor,Fitness,Endura,Endura Fitness 283,9.47,15.0,2022-08-24,Active
+P0284,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 284,17.0,29.73,2020-02-28,Active
+P0285,Office Supplies,Printing,ProDesk,ProDesk Printing 285,7.99,12.21,2024-10-21,Seasonal
+P0286,Home & Living,Bedding,Luma,Luma Bedding 286,127.17,188.78,2018-07-28,Active
+P0287,Furniture,Desks,Cove,Cove Desks 287,54.5,80.0,2020-02-09,Active
+P0288,Sports & Outdoor,Fitness,TrailPro,TrailPro Fitness 288,27.91,42.64,2018-01-11,Active
+P0289,Kitchen,Dining,Kora,Kora Dining 289,13.7,23.45,2017-06-20,Active
+P0290,Office Supplies,Organisation,Sorta,Sorta Organisation 290,18.76,30.28,2019-10-17,Active
+P0291,Furniture,Desks,Cove,Cove Desks 291,72.38,109.68,2022-12-30,Active
+P0292,Home & Living,Storage,Luma,Luma Storage 292,6.04,12.0,2022-05-18,Active
+P0293,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 293,34.14,57.6,2025-09-13,Active
+P0294,Office Supplies,Stationery,InkLab,InkLab Stationery 294,2.86,5.02,2017-01-23,Active
+P0295,Kitchen,Dining,Table & Co,Table & Co Dining 295,11.26,17.95,2018-09-15,Active
+P0296,Electronics,Smart Home,Pulse,Pulse Smart Home 296,30.18,35.0,2024-09-25,Active
+P0297,Electronics,Computers,Vertex,Vertex Computers 297,26.74,35.0,2018-07-26,Active
+P0298,Home & Living,Decor,Casa,Casa Decor 298,16.63,29.09,2021-10-24,Active
+P0299,Sports & Outdoor,Team Sports,Velocity,Velocity Team Sports 299,11.75,17.2,2019-04-02,Discontinued
+P0300,Home & Living,Bedding,Haven,Haven Bedding 300,32.09,44.77,2024-07-26,Active
+P0301,Office Supplies,Organisation,InkLab,InkLab Organisation 301,3.69,7.32,2020-10-23,Discontinued
+P0302,Office Supplies,Printing,Sorta,Sorta Printing 302,1.96,3.0,2024-06-28,Seasonal
+P0303,Electronics,Audio,Axiom,Axiom Audio 303,30.76,35.0,2022-05-13,Discontinued
+P0304,Home & Living,Decor,Haven,Haven Decor 304,7.05,12.0,2017-12-29,Active
+P0305,Home & Living,Storage,Luma,Luma Storage 305,8.47,14.16,2022-06-21,Active
+P0306,Kitchen,Dining,HomeChef,HomeChef Dining 306,4.24,8.0,2023-05-07,Active
+P0307,Office Supplies,Stationery,WriteRight,WriteRight Stationery 307,4.91,11.23,2025-03-22,Active
+P0308,Electronics,Mobile Accessories,Pulse,Pulse Mobile Accessories 308,23.85,35.0,2025-03-18,Active
+P0309,Sports & Outdoor,Cycling,TrailPro,TrailPro Cycling 309,34.08,56.41,2024-04-08,Active
+P0310,Kitchen,Dining,Table & Co,Table & Co Dining 310,5.56,8.92,2022-07-01,Active
+P0311,Office Supplies,Paper,InkLab,InkLab Paper 311,4.55,10.69,2020-07-19,Active
+P0312,Electronics,Computers,Pulse,Pulse Computers 312,61.01,74.19,2024-09-30,Active
+P0313,Furniture,Chairs,WorkNest,WorkNest Chairs 313,139.49,177.96,2018-04-12,Active
+P0314,Electronics,Smart Home,Axiom,Axiom Smart Home 314,24.96,35.0,2020-04-13,Active
+P0315,Kitchen,Food Storage,Savour,Savour Food Storage 315,8.08,12.43,2017-10-14,Active
+P0316,Kitchen,Cookware,FreshKeep,FreshKeep Cookware 316,6.24,9.08,2025-09-04,Active
+P0317,Electronics,Smart Home,Pulse,Pulse Smart Home 317,70.98,103.11,2022-03-17,Active
+P0318,Sports & Outdoor,Cycling,TrailPro,TrailPro Cycling 318,95.71,177.31,2021-04-14,Active
+P0319,Office Supplies,Paper,ProDesk,ProDesk Paper 319,8.62,17.27,2022-07-28,Active
+P0320,Furniture,Living Room,Cove,Cove Living Room 320,94.99,121.58,2022-11-25,Active
+P0321,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 321,10.18,17.85,2018-01-08,Seasonal
+P0322,Furniture,Living Room,Linea,Linea Living Room 322,191.32,277.13,2024-11-14,Active
+P0323,Sports & Outdoor,Fitness,TrailPro,TrailPro Fitness 323,27.55,39.95,2021-08-15,Active
+P0324,Office Supplies,Printing,InkLab,InkLab Printing 324,3.16,7.1,2021-04-11,Active
+P0325,Office Supplies,Printing,Sorta,Sorta Printing 325,2.37,4.36,2018-09-29,Active
+P0326,Office Supplies,Organisation,InkLab,InkLab Organisation 326,6.62,10.56,2022-09-24,Active
+P0327,Home & Living,Storage,Haven,Haven Storage 327,22.2,41.65,2020-10-24,Active
+P0328,Home & Living,Decor,Nestwell,Nestwell Decor 328,6.2,12.0,2017-04-27,Seasonal
+P0329,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 329,43.04,52.43,2024-11-18,Active
+P0330,Electronics,Smart Home,Vertex,Vertex Smart Home 330,30.19,35.0,2022-12-27,Active
+P0331,Home & Living,Lighting,Nestwell,Nestwell Lighting 331,7.91,12.0,2021-07-17,Active
+P0332,Electronics,Audio,Orbit,Orbit Audio 332,27.29,35.0,2017-05-05,Active
+P0333,Home & Living,Storage,Nestwell,Nestwell Storage 333,8.09,13.35,2021-07-18,Discontinued
+P0334,Home & Living,Lighting,Casa,Casa Lighting 334,9.83,20.04,2018-04-21,Active
+P0335,Office Supplies,Organisation,ProDesk,ProDesk Organisation 335,1.89,3.0,2018-12-20,Active
+P0336,Electronics,Smart Home,Vertex,Vertex Smart Home 336,30.69,35.0,2024-08-21,Active
+P0337,Home & Living,Storage,Casa,Casa Storage 337,8.5,12.0,2023-11-03,Active
+P0338,Furniture,Chairs,Form & Co,Form & Co Chairs 338,82.62,131.77,2020-05-08,Active
+P0339,Kitchen,Food Storage,HomeChef,HomeChef Food Storage 339,10.25,19.22,2018-10-01,Active
+P0340,Furniture,Shelving,WorkNest,WorkNest Shelving 340,170.43,290.41,2025-05-17,Active
+P0341,Office Supplies,Stationery,Sorta,Sorta Stationery 341,13.69,29.92,2024-03-01,Seasonal
+P0342,Sports & Outdoor,Fitness,Velocity,Velocity Fitness 342,101.35,150.36,2020-04-19,Active
+P0343,Furniture,Chairs,WorkNest,WorkNest Chairs 343,70.04,104.71,2019-02-12,Active
+P0344,Kitchen,Cookware,FreshKeep,FreshKeep Cookware 344,8.3,13.12,2020-07-28,Active
+P0345,Kitchen,Dining,Savour,Savour Dining 345,5.09,10.01,2021-10-19,Active
+P0346,Kitchen,Dining,FreshKeep,FreshKeep Dining 346,4.27,8.0,2023-04-07,Active
+P0347,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 347,40.51,80.13,2020-06-30,Active
+P0348,Electronics,Computers,Orbit,Orbit Computers 348,26.18,35.0,2020-01-28,Active
+P0349,Electronics,Smart Home,Orbit,Orbit Smart Home 349,29.37,35.0,2022-09-03,Active
+P0350,Electronics,Smart Home,Pulse,Pulse Smart Home 350,37.88,51.62,2018-09-21,Active
+P0351,Sports & Outdoor,Cycling,Velocity,Velocity Cycling 351,14.05,21.22,2017-01-29,Active
+P0352,Kitchen,Appliances,HomeChef,HomeChef Appliances 352,16.92,24.61,2021-05-11,Active
+P0353,Home & Living,Bedding,Luma,Luma Bedding 353,16.2,23.26,2019-02-12,Active
+P0354,Office Supplies,Stationery,WriteRight,WriteRight Stationery 354,2.85,4.29,2024-10-03,Active
+P0355,Home & Living,Decor,Casa,Casa Decor 355,17.68,28.13,2025-01-11,Active
+P0356,Electronics,Audio,NovaTech,NovaTech Audio 356,164.48,194.66,2023-04-05,Active
+P0357,Electronics,Smart Home,Vertex,Vertex Smart Home 357,125.56,178.49,2017-09-11,Active
+P0358,Sports & Outdoor,Fitness,Velocity,Velocity Fitness 358,16.73,31.1,2017-10-11,Active
+P0359,Office Supplies,Stationery,WriteRight,WriteRight Stationery 359,2.93,6.08,2025-02-21,Seasonal
+P0360,Electronics,Smart Home,Orbit,Orbit Smart Home 360,36.64,47.17,2017-10-01,Active
+P0361,Office Supplies,Printing,ProDesk,ProDesk Printing 361,1.96,4.6,2017-03-18,Active
+P0362,Office Supplies,Organisation,WriteRight,WriteRight Organisation 362,5.04,8.08,2023-06-07,Active
+P0363,Sports & Outdoor,Camping,Motion,Motion Camping 363,11.02,18.77,2023-12-31,Active
+P0364,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 364,8.5,15.46,2021-03-13,Active
+P0365,Home & Living,Storage,Casa,Casa Storage 365,29.9,54.8,2019-06-27,Active
+P0366,Sports & Outdoor,Fitness,Peak,Peak Fitness 366,30.75,41.18,2017-12-20,Active
+P0367,Office Supplies,Paper,WriteRight,WriteRight Paper 367,5.37,8.2,2021-05-23,Active
+P0368,Sports & Outdoor,Camping,Endura,Endura Camping 368,24.69,33.08,2022-05-06,Active
+P0369,Kitchen,Cookware,HomeChef,HomeChef Cookware 369,14.59,26.06,2019-02-11,Active
+P0370,Sports & Outdoor,Team Sports,TrailPro,TrailPro Team Sports 370,85.9,119.12,2025-08-20,Active
+P0371,Furniture,Shelving,WorkNest,WorkNest Shelving 371,204.15,256.0,2018-02-23,Active
+P0372,Sports & Outdoor,Team Sports,Peak,Peak Team Sports 372,185.73,294.69,2021-11-14,Active
+P0373,Kitchen,Dining,HomeChef,HomeChef Dining 373,5.32,8.17,2022-01-13,Active
+P0374,Furniture,Living Room,WorkNest,WorkNest Living Room 374,68.9,97.76,2017-09-06,Active
+P0375,Sports & Outdoor,Camping,TrailPro,TrailPro Camping 375,21.41,36.13,2023-02-05,Active
+P0376,Office Supplies,Paper,Sorta,Sorta Paper 376,4.37,7.07,2021-10-23,Active
+P0377,Home & Living,Bedding,Haven,Haven Bedding 377,8.47,12.0,2018-11-10,Active
+P0378,Furniture,Living Room,Linea,Linea Living Room 378,59.97,80.0,2022-02-27,Active
+P0379,Furniture,Living Room,Cove,Cove Living Room 379,63.66,80.0,2025-07-27,Active
+P0380,Furniture,Chairs,WorkNest,WorkNest Chairs 380,82.99,131.41,2023-12-23,Active
+P0381,Sports & Outdoor,Camping,Motion,Motion Camping 381,18.87,28.32,2024-10-08,Active
+P0382,Furniture,Shelving,Northwood,Northwood Shelving 382,156.57,219.52,2021-04-28,Active
+P0383,Electronics,Computers,Axiom,Axiom Computers 383,106.85,141.23,2021-02-16,Active
+P0384,Furniture,Shelving,WorkNest,WorkNest Shelving 384,91.33,149.79,2024-01-21,Active
+P0385,Electronics,Smart Home,Axiom,Axiom Smart Home 385,49.41,57.25,2022-06-17,Active
+P0386,Kitchen,Dining,HomeChef,HomeChef Dining 386,4.31,8.0,2017-03-10,Active
+P0387,Electronics,Computers,NovaTech,NovaTech Computers 387,32.68,44.69,2024-11-27,Active
+P0388,Furniture,Living Room,Cove,Cove Living Room 388,149.92,243.46,2024-02-06,Active
+P0389,Furniture,Living Room,Northwood,Northwood Living Room 389,50.75,80.0,2025-06-11,Active
+P0390,Furniture,Living Room,Northwood,Northwood Living Room 390,203.91,269.55,2018-07-07,Active
+P0391,Home & Living,Storage,Nestwell,Nestwell Storage 391,11.4,21.83,2017-02-22,Active
+P0392,Office Supplies,Printing,ProDesk,ProDesk Printing 392,2.73,4.07,2018-12-24,Active
+P0393,Home & Living,Bedding,Casa,Casa Bedding 393,23.0,40.31,2024-04-27,Active
+P0394,Office Supplies,Paper,InkLab,InkLab Paper 394,3.61,5.43,2023-04-08,Active
+P0395,Furniture,Desks,Form & Co,Form & Co Desks 395,80.68,121.53,2019-01-29,Active
+P0396,Sports & Outdoor,Fitness,Peak,Peak Fitness 396,44.32,63.74,2019-03-15,Discontinued
+P0397,Kitchen,Cookware,Savour,Savour Cookware 397,18.72,29.83,2019-05-13,Active
+P0398,Electronics,Mobile Accessories,Vertex,Vertex Mobile Accessories 398,48.72,57.34,2023-05-24,Active
+P0399,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 399,17.82,24.98,2025-06-13,Active
+P0400,Home & Living,Lighting,Casa,Casa Lighting 400,6.47,12.0,2022-05-17,Active
+P0401,Office Supplies,Paper,PaperTrail,PaperTrail Paper 401,4.15,6.43,2021-11-03,Active
+P0402,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 402,148.82,237.4,2023-11-19,Active
+P0403,Electronics,Audio,Pulse,Pulse Audio 403,144.76,172.39,2023-05-28,Active
+P0404,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 404,30.55,35.0,2022-08-08,Active
+P0405,Sports & Outdoor,Cycling,Peak,Peak Cycling 405,10.39,15.0,2019-09-29,Active
+P0406,Home & Living,Storage,Oak & Ivy,Oak & Ivy Storage 406,16.48,24.8,2020-04-02,Active
+P0407,Electronics,Mobile Accessories,NovaTech,NovaTech Mobile Accessories 407,93.02,131.33,2018-03-13,Active
+P0408,Home & Living,Decor,Luma,Luma Decor 408,36.99,56.43,2024-12-04,Active
+P0409,Office Supplies,Organisation,ProDesk,ProDesk Organisation 409,5.95,9.26,2017-05-16,Discontinued
+P0410,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 410,29.99,35.0,2017-10-20,Active
+P0411,Electronics,Smart Home,NovaTech,NovaTech Smart Home 411,29.9,35.0,2021-09-05,Active
+P0412,Sports & Outdoor,Fitness,Velocity,Velocity Fitness 412,24.52,37.06,2019-12-11,Active
+P0413,Furniture,Chairs,Linea,Linea Chairs 413,90.75,133.63,2018-02-26,Active
+P0414,Office Supplies,Organisation,PaperTrail,PaperTrail Organisation 414,6.05,10.99,2025-09-19,Active
+P0415,Home & Living,Storage,Luma,Luma Storage 415,24.72,40.64,2019-04-04,Active
+P0416,Kitchen,Food Storage,Table & Co,Table & Co Food Storage 416,4.81,8.0,2023-10-07,Active
+P0417,Electronics,Computers,Orbit,Orbit Computers 417,279.19,339.78,2025-04-27,Active
+P0418,Electronics,Smart Home,NovaTech,NovaTech Smart Home 418,26.5,35.0,2021-04-08,Discontinued
+P0419,Office Supplies,Stationery,PaperTrail,PaperTrail Stationery 419,1.47,3.0,2023-03-26,Active
+P0420,Kitchen,Dining,HomeChef,HomeChef Dining 420,9.44,13.19,2023-06-26,Active
+P0421,Furniture,Desks,Northwood,Northwood Desks 421,128.9,211.54,2018-05-23,Active
+P0422,Home & Living,Decor,Haven,Haven Decor 422,39.07,64.13,2024-06-23,Active
+P0423,Home & Living,Bedding,Haven,Haven Bedding 423,28.99,45.45,2020-10-26,Active
+P0424,Kitchen,Appliances,FreshKeep,FreshKeep Appliances 424,6.45,9.37,2020-08-28,Active
+P0425,Kitchen,Appliances,HomeChef,HomeChef Appliances 425,5.51,9.34,2019-11-17,Active
+P0426,Electronics,Smart Home,Orbit,Orbit Smart Home 426,77.84,109.01,2025-01-01,Active
+P0427,Furniture,Desks,Linea,Linea Desks 427,60.55,88.74,2022-06-08,Active
+P0428,Home & Living,Storage,Nestwell,Nestwell Storage 428,16.8,30.86,2021-01-23,Active
+P0429,Furniture,Desks,Form & Co,Form & Co Desks 429,83.83,124.12,2018-12-25,Active
+P0430,Furniture,Shelving,Linea,Linea Shelving 430,91.36,127.21,2017-06-26,Discontinued
+P0431,Office Supplies,Stationery,Sorta,Sorta Stationery 431,1.96,4.17,2025-03-23,Active
+P0432,Kitchen,Food Storage,Kora,Kora Food Storage 432,23.43,34.81,2020-11-14,Active
+P0433,Electronics,Smart Home,NovaTech,NovaTech Smart Home 433,75.85,91.24,2022-05-01,Active
+P0434,Office Supplies,Printing,InkLab,InkLab Printing 434,2.76,6.16,2023-02-14,Active
+P0435,Home & Living,Lighting,Oak & Ivy,Oak & Ivy Lighting 435,8.52,12.0,2022-09-25,Active
+P0436,Electronics,Smart Home,Axiom,Axiom Smart Home 436,58.86,67.1,2019-09-23,Active
+P0437,Kitchen,Cookware,Savour,Savour Cookware 437,20.35,29.22,2020-11-04,Active
+P0438,Home & Living,Storage,Oak & Ivy,Oak & Ivy Storage 438,69.65,141.52,2017-05-18,Active
+P0439,Sports & Outdoor,Cycling,Peak,Peak Cycling 439,7.88,15.0,2020-02-02,Active
+P0440,Home & Living,Bedding,Nestwell,Nestwell Bedding 440,26.69,39.57,2019-07-09,Active
+P0441,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 441,8.3,11.44,2017-10-16,Active
+P0442,Kitchen,Dining,Table & Co,Table & Co Dining 442,13.09,18.53,2023-03-30,Active
+P0443,Kitchen,Dining,HomeChef,HomeChef Dining 443,10.55,18.58,2023-02-13,Active
+P0444,Office Supplies,Organisation,ProDesk,ProDesk Organisation 444,2.0,3.0,2024-08-25,Active
+P0445,Office Supplies,Stationery,PaperTrail,PaperTrail Stationery 445,4.63,6.88,2024-12-27,Active
+P0446,Sports & Outdoor,Fitness,Peak,Peak Fitness 446,8.8,15.0,2025-01-01,Active
+P0447,Office Supplies,Printing,InkLab,InkLab Printing 447,26.57,41.55,2020-10-30,Active
+P0448,Kitchen,Cookware,Kora,Kora Cookware 448,11.11,16.68,2023-03-22,Active
+P0449,Electronics,Smart Home,Orbit,Orbit Smart Home 449,34.66,47.38,2017-07-19,Active
+P0450,Home & Living,Storage,Nestwell,Nestwell Storage 450,8.55,12.0,2024-10-12,Active
+P0451,Furniture,Living Room,WorkNest,WorkNest Living Room 451,60.96,87.9,2022-09-22,Discontinued
+P0452,Sports & Outdoor,Team Sports,Motion,Motion Team Sports 452,20.12,37.31,2018-07-16,Active
+P0453,Sports & Outdoor,Cycling,Peak,Peak Cycling 453,9.33,15.37,2024-07-25,Active
+P0454,Electronics,Mobile Accessories,Vertex,Vertex Mobile Accessories 454,205.06,245.7,2018-10-19,Active
+P0455,Kitchen,Food Storage,Table & Co,Table & Co Food Storage 455,27.72,53.02,2024-10-07,Active
+P0456,Kitchen,Food Storage,FreshKeep,FreshKeep Food Storage 456,24.7,40.64,2019-09-06,Active
+P0457,Home & Living,Storage,Haven,Haven Storage 457,10.83,19.59,2022-03-04,Active
+P0458,Kitchen,Appliances,Kora,Kora Appliances 458,16.56,28.05,2021-05-29,Active
+P0459,Home & Living,Lighting,Haven,Haven Lighting 459,22.53,43.32,2021-09-23,Active
+P0460,Furniture,Desks,Northwood,Northwood Desks 460,175.12,257.41,2021-07-02,Active
+P0461,Electronics,Audio,Vertex,Vertex Audio 461,51.84,61.18,2020-10-06,Active
+P0462,Electronics,Mobile Accessories,Axiom,Axiom Mobile Accessories 462,105.52,146.7,2019-09-06,Active
+P0463,Office Supplies,Organisation,PaperTrail,PaperTrail Organisation 463,23.48,35.78,2021-05-06,Seasonal
+P0464,Home & Living,Bedding,Casa,Casa Bedding 464,6.79,12.0,2023-08-27,Active
+P0465,Home & Living,Bedding,Nestwell,Nestwell Bedding 465,18.74,28.2,2017-01-13,Active
+P0466,Home & Living,Lighting,Casa,Casa Lighting 466,16.7,29.79,2021-01-06,Active
+P0467,Furniture,Chairs,WorkNest,WorkNest Chairs 467,265.11,407.28,2021-08-18,Active
+P0468,Home & Living,Bedding,Oak & Ivy,Oak & Ivy Bedding 468,17.59,35.77,2019-08-13,Active
+P0469,Kitchen,Food Storage,Savour,Savour Food Storage 469,30.3,58.98,2023-06-28,Active
+P0470,Home & Living,Decor,Nestwell,Nestwell Decor 470,50.63,74.73,2023-03-24,Active
+P0471,Furniture,Desks,Linea,Linea Desks 471,63.15,93.47,2022-09-27,Active
+P0472,Office Supplies,Paper,Sorta,Sorta Paper 472,2.0,3.2,2024-04-18,Active
+P0473,Furniture,Shelving,Form & Co,Form & Co Shelving 473,56.81,80.0,2021-06-10,Active
+P0474,Furniture,Shelving,Cove,Cove Shelving 474,383.65,511.23,2019-09-05,Seasonal
+P0475,Electronics,Smart Home,Vertex,Vertex Smart Home 475,24.37,35.0,2019-07-16,Active
+P0476,Electronics,Mobile Accessories,Orbit,Orbit Mobile Accessories 476,32.66,38.2,2023-08-14,Seasonal
+P0477,Office Supplies,Printing,Sorta,Sorta Printing 477,3.56,5.46,2023-06-26,Active
+P0478,Kitchen,Dining,HomeChef,HomeChef Dining 478,8.66,12.67,2022-02-07,Active
+P0479,Electronics,Smart Home,Orbit,Orbit Smart Home 479,50.91,58.14,2022-11-07,Active
+P0480,Home & Living,Lighting,Casa,Casa Lighting 480,18.28,28.74,2023-08-13,Active

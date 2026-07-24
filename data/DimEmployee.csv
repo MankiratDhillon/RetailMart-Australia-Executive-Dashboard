@@ -1,0 +1,221 @@
+EmployeeID,FirstName,LastName,Role,StoreID,HireDate,EmploymentStatus
+E0001,Anika,Nguyen,Store Manager,S001,2025-01-27,Active
+E0002,Arjun,Singh,Store Manager,S002,2019-08-03,Active
+E0003,Meera,Martin,Store Manager,S003,2020-08-04,Active
+E0004,Oliver,White,Store Manager,S004,2020-02-02,Active
+E0005,Ishaan,Nguyen,Store Manager,S005,2021-06-29,Active
+E0006,Kabir,Thompson,Store Manager,S006,2025-04-23,Active
+E0007,Fatima,Thompson,Store Manager,S007,2020-11-13,Active
+E0008,Oscar,Singh,Store Manager,S008,2024-06-27,Active
+E0009,Fatima,Wang,Store Manager,S009,2019-08-17,Active
+E0010,Oscar,Lee,Store Manager,S010,2024-03-02,Active
+E0011,Daniel,Patel,Store Manager,S011,2025-06-28,Active
+E0012,Noah,Harris,Store Manager,S012,2017-10-09,Active
+E0013,Wei,Patel,Store Manager,S013,2022-05-14,Inactive
+E0014,Arjun,Kim,Store Manager,S014,2016-06-29,Active
+E0015,Rohan,Garcia,Store Manager,S015,2024-03-27,Active
+E0016,Amelia,Anderson,Store Manager,S016,2021-11-19,Active
+E0017,James,Williams,Store Manager,S017,2012-09-25,Inactive
+E0018,Anika,Thompson,Store Manager,S018,2022-09-30,Active
+E0019,Daniel,Lee,Store Manager,S019,2020-01-07,Active
+E0020,Amelia,Lee,Store Manager,S020,2018-09-01,Active
+E0021,Yuki,Johnson,Store Manager,S021,2023-04-01,Active
+E0022,Mia,Taylor,Store Manager,S022,2022-02-27,Active
+E0023,Fatima,Chen,Store Manager,S023,2017-12-18,Active
+E0024,Jack,Nguyen,Store Manager,S024,2018-08-06,Active
+E0025,Harper,Singh,Store Manager,S025,2015-04-19,Active
+E0026,Lina,Patel,Store Manager,S026,2021-09-03,Active
+E0027,Ava,Lee,Store Manager,S027,2016-02-25,Active
+E0028,Ruby,Smith,Store Manager,S028,2021-05-16,Active
+E0029,Daniel,Thomas,Store Manager,S029,2019-11-06,Active
+E0030,Fatima,Williams,Store Manager,S030,2020-12-05,Active
+E0031,Olivia,Chen,Store Manager,S031,2024-01-09,Active
+E0032,Anika,Patel,Store Manager,S032,2021-11-26,Inactive
+E0033,Ella,Harris,Store Manager,S033,2024-01-20,Active
+E0034,Mateo,Patel,Store Manager,S034,2023-12-11,Active
+E0035,Zoe,Lewis,Store Manager,S035,2024-02-29,Active
+E0036,Harper,Garcia,Store Manager,S036,2022-08-19,Active
+E0037,Anika,Park,Regional Manager,S001,2021-10-27,Active
+E0038,Oscar,Wang,Regional Manager,S002,2016-01-02,Active
+E0039,Fatima,Williams,Regional Manager,S003,2021-04-27,Active
+E0040,Simran,Martin,Regional Manager,S004,2019-12-28,Active
+E0041,Ethan,Khan,Regional Manager,S005,2022-12-04,Active
+E0042,Oliver,White,Regional Manager,S006,2024-01-21,Active
+E0043,Oscar,Singh,Regional Manager,S007,2017-11-03,Active
+E0044,Ethan,Kim,Regional Manager,S008,2024-09-04,Active
+E0045,Hana,Thompson,Sales Associate,S009,2018-08-09,Active
+E0046,Charlotte,Harris,Sales Associate,S010,2024-11-03,Active
+E0047,Mateo,Williams,Sales Associate,S011,2025-06-25,Active
+E0048,Sarah,Park,Sales Associate,S012,2014-04-26,Active
+E0049,Rohan,Martin,Sales Associate,S013,2025-03-27,Active
+E0050,Sarah,Wilson,Department Lead,S014,2012-12-16,Active
+E0051,Wei,Thompson,Sales Associate,S015,2024-04-08,Active
+E0052,Kabir,Jones,Department Lead,S016,2014-05-22,Active
+E0053,Zoe,Wilson,Senior Sales Associate,S017,2022-10-02,Active
+E0054,Ming,Williams,Sales Associate,S018,2024-07-20,Active
+E0055,Yuki,Thomas,Sales Associate,S019,2020-12-11,Active
+E0056,Anika,Lewis,Sales Associate,S020,2013-11-25,Active
+E0057,Lucas,Kaur,Sales Associate,S021,2016-11-24,Inactive
+E0058,William,Patel,Sales Associate,S022,2022-06-03,Active
+E0059,Lucas,Johnson,Sales Associate,S023,2020-01-03,Active
+E0060,Kiran,Smith,Sales Associate,S024,2019-07-08,Active
+E0061,Daniel,Wilson,Sales Associate,S025,2018-04-13,Active
+E0062,Oscar,Lewis,Sales Associate,S026,2015-04-02,Active
+E0063,Liam,Harris,Sales Associate,S027,2012-02-26,Active
+E0064,Kiran,Lee,Senior Sales Associate,S028,2024-05-15,Active
+E0065,Kabir,Martinez,Sales Associate,S029,2012-06-07,Active
+E0066,William,Jones,Sales Associate,S030,2024-01-31,Active
+E0067,Thomas,Thomas,Sales Associate,S031,2024-04-07,Active
+E0068,Daniel,Taylor,Sales Associate,S032,2016-01-04,Active
+E0069,Mia,Chen,Department Lead,S033,2020-09-21,Active
+E0070,Thomas,Thompson,Sales Associate,S034,2019-01-16,Active
+E0071,Ming,Brown,Sales Associate,S035,2023-09-16,Active
+E0072,Priya,Kaur,Senior Sales Associate,S036,2021-05-23,Active
+E0073,Ming,Garcia,Sales Associate,S001,2023-10-22,Active
+E0074,Liam,Harris,Sales Associate,S002,2021-07-07,Active
+E0075,Amelia,Lewis,Sales Associate,S003,2014-04-05,Active
+E0076,Oscar,Khan,Sales Associate,S004,2024-03-05,Active
+E0077,Leo,Dhillon,Sales Associate,S005,2012-04-11,Active
+E0078,Harper,Williams,Senior Sales Associate,S006,2025-02-05,Active
+E0079,Kabir,Wilson,Sales Associate,S007,2012-02-13,Inactive
+E0080,Zoe,Clark,Sales Associate,S008,2023-06-08,Active
+E0081,Zoe,Lee,Sales Associate,S009,2020-02-19,Active
+E0082,Oliver,Smith,Sales Associate,S010,2024-10-11,Active
+E0083,Leo,Kaur,Senior Sales Associate,S011,2024-08-30,Active
+E0084,Yuki,Park,Department Lead,S012,2017-07-10,Active
+E0085,Daniel,Wang,Sales Associate,S013,2025-02-25,Active
+E0086,Kabir,Smith,Senior Sales Associate,S014,2013-04-22,Active
+E0087,Yuki,Garcia,Sales Associate,S015,2021-07-13,Active
+E0088,Ali,Park,Senior Sales Associate,S016,2015-11-01,Active
+E0089,Henry,Taylor,Senior Sales Associate,S017,2019-08-05,Active
+E0090,Kabir,Williams,Sales Associate,S018,2023-09-08,Active
+E0091,Lucas,Wang,Sales Associate,S019,2023-11-19,Active
+E0092,Min,Thomas,Sales Associate,S020,2012-11-18,Active
+E0093,Amelia,Kaur,Sales Associate,S021,2016-04-30,Active
+E0094,Thomas,Clark,Sales Associate,S022,2017-04-03,Active
+E0095,Daniel,Taylor,Senior Sales Associate,S023,2022-12-21,Active
+E0096,Jack,Thomas,Sales Associate,S024,2021-08-24,Active
+E0097,James,Nguyen,Senior Sales Associate,S025,2017-06-07,Inactive
+E0098,William,Wang,Sales Associate,S026,2024-01-08,Inactive
+E0099,Lucas,Kaur,Sales Associate,S027,2024-03-06,Active
+E0100,Ava,Lee,Department Lead,S028,2021-07-25,Active
+E0101,Oscar,Thompson,Senior Sales Associate,S029,2015-01-04,Active
+E0102,Emily,Smith,Sales Associate,S030,2021-05-02,Active
+E0103,Fatima,Moore,Sales Associate,S031,2017-08-17,Active
+E0104,Min,Taylor,Sales Associate,S032,2024-07-09,Active
+E0105,Amelia,Garcia,Department Lead,S033,2017-10-10,Active
+E0106,Sarah,Taylor,Sales Associate,S034,2017-12-07,Active
+E0107,Lucas,Wilson,Sales Associate,S035,2023-11-15,Active
+E0108,Ali,Patel,Sales Associate,S036,2024-11-08,Active
+E0109,Isla,Sharma,Sales Associate,S001,2023-12-26,Active
+E0110,Meera,Park,Sales Associate,S002,2021-12-30,Active
+E0111,Ava,Brown,Sales Associate,S003,2013-12-24,Active
+E0112,Mateo,Kim,Sales Associate,S004,2022-01-21,Active
+E0113,Ishaan,Smith,Sales Associate,S005,2015-11-29,Active
+E0114,Ella,Wang,Sales Associate,S006,2018-07-03,Active
+E0115,William,Smith,Sales Associate,S007,2017-05-04,Active
+E0116,Zoe,Khan,Sales Associate,S008,2024-10-21,Active
+E0117,Anika,Martinez,Senior Sales Associate,S009,2014-09-13,Active
+E0118,James,Harris,Sales Associate,S010,2024-01-03,Active
+E0119,Sophie,Kaur,Senior Sales Associate,S011,2024-09-25,Active
+E0120,Ava,Park,Senior Sales Associate,S012,2014-02-02,Active
+E0121,William,Taylor,Sales Associate,S013,2023-01-14,Active
+E0122,Lina,Jones,Sales Associate,S014,2015-10-01,Active
+E0123,Ava,Harris,Department Lead,S015,2021-05-16,Active
+E0124,Yuki,White,Sales Associate,S016,2017-07-06,Active
+E0125,Omar,Johnson,Sales Associate,S017,2024-05-05,Active
+E0126,Meera,Khan,Sales Associate,S018,2024-08-15,Active
+E0127,Thomas,Garcia,Department Lead,S019,2021-10-05,Active
+E0128,Leo,Dhillon,Senior Sales Associate,S020,2018-07-26,Active
+E0129,Olivia,Patel,Sales Associate,S021,2020-04-01,Active
+E0130,Charlotte,Wang,Senior Sales Associate,S022,2021-11-11,Active
+E0131,Daniel,Lewis,Sales Associate,S023,2017-12-23,Active
+E0132,Mateo,Williams,Sales Associate,S024,2018-03-07,Active
+E0133,Ella,Wang,Sales Associate,S025,2021-09-26,Active
+E0134,Kiran,Thomas,Sales Associate,S026,2020-03-18,Active
+E0135,Zoe,Martinez,Sales Associate,S027,2018-05-04,Active
+E0136,Arjun,Williams,Sales Associate,S028,2023-05-02,Active
+E0137,Olivia,Dhillon,Senior Sales Associate,S029,2024-02-05,Active
+E0138,Henry,Thomas,Sales Associate,S030,2022-12-07,Active
+E0139,Simran,Kaur,Senior Sales Associate,S031,2020-06-17,Active
+E0140,Lina,Taylor,Sales Associate,S032,2022-02-01,Active
+E0141,Arjun,Nguyen,Sales Associate,S033,2022-06-29,Active
+E0142,Grace,White,Sales Associate,S034,2018-03-23,Active
+E0143,Oscar,Jones,Senior Sales Associate,S035,2025-03-18,Active
+E0144,Ella,Khan,Department Lead,S036,2017-03-27,Active
+E0145,Simran,Kaur,Senior Sales Associate,S001,2023-07-09,Active
+E0146,Sophie,Khan,Sales Associate,S002,2012-08-29,Inactive
+E0147,Ishaan,Khan,Department Lead,S003,2021-07-16,Active
+E0148,Ethan,Harris,Department Lead,S004,2020-08-30,Active
+E0149,Amelia,Wilson,Sales Associate,S005,2019-09-18,Active
+E0150,Rohan,Kaur,Sales Associate,S006,2016-11-26,Active
+E0151,Sophie,Thompson,Senior Sales Associate,S007,2021-01-22,Active
+E0152,Ishaan,Khan,Sales Associate,S008,2024-07-20,Active
+E0153,Zoe,Thomas,Sales Associate,S009,2015-04-13,Active
+E0154,Lina,Sharma,Sales Associate,S010,2022-06-13,Active
+E0155,Grace,Moore,Senior Sales Associate,S011,2025-06-04,Active
+E0156,Ethan,Park,Senior Sales Associate,S012,2019-12-31,Active
+E0157,Olivia,Lewis,Sales Associate,S013,2021-07-30,Active
+E0158,Ethan,Singh,Sales Associate,S014,2017-08-03,Active
+E0159,Ali,Wang,Sales Associate,S015,2021-03-17,Active
+E0160,Zoe,Moore,Senior Sales Associate,S016,2016-10-16,Active
+E0161,Emily,Harris,Sales Associate,S017,2023-08-26,Active
+E0162,Ruby,Sharma,Department Lead,S018,2024-02-06,Active
+E0163,Aarav,Martin,Sales Associate,S019,2020-06-22,Active
+E0164,Liam,Lewis,Sales Associate,S020,2021-12-14,Active
+E0165,Charlotte,Brown,Sales Associate,S021,2017-07-28,Active
+E0166,William,Harris,Sales Associate,S022,2016-03-25,Active
+E0167,Lucas,Moore,Sales Associate,S023,2023-11-28,Active
+E0168,Kabir,Thomas,Sales Associate,S024,2021-10-01,Active
+E0169,Ethan,Martin,Sales Associate,S025,2016-11-09,Active
+E0170,Olivia,Moore,Senior Sales Associate,S026,2013-01-19,Active
+E0171,Arjun,Anderson,Senior Sales Associate,S027,2019-11-15,Active
+E0172,Noah,Johnson,Sales Associate,S028,2024-06-24,Active
+E0173,Wei,Kim,Senior Sales Associate,S029,2018-04-04,Active
+E0174,Yuki,Chen,Sales Associate,S030,2022-05-30,Active
+E0175,Jack,Brown,Sales Associate,S031,2023-11-16,Active
+E0176,Lina,Kaur,Senior Sales Associate,S032,2018-10-07,Active
+E0177,Emily,Brown,Sales Associate,S033,2019-05-29,Active
+E0178,Ava,Jones,Sales Associate,S034,2025-04-18,Active
+E0179,William,Patel,Sales Associate,S035,2025-04-25,Active
+E0180,Olivia,Clark,Sales Associate,S036,2018-05-16,Active
+E0181,Emily,Thomas,Sales Associate,S001,2025-04-11,Active
+E0182,Thomas,Smith,Sales Associate,S002,2014-04-19,Active
+E0183,Wei,Patel,Department Lead,S003,2024-06-11,Active
+E0184,Mateo,Kim,Sales Associate,S004,2023-12-15,Active
+E0185,Grace,Jones,Sales Associate,S005,2018-01-05,Active
+E0186,Lina,Lee,Senior Sales Associate,S006,2015-07-08,Active
+E0187,Emily,Kim,Department Lead,S007,2022-03-18,Active
+E0188,Noah,Wilson,Senior Sales Associate,S008,2023-04-10,Active
+E0189,Olivia,Park,Senior Sales Associate,S009,2015-05-13,Active
+E0190,Min,Anderson,Sales Associate,S010,2022-12-06,Active
+E0191,Thomas,Lewis,Sales Associate,S011,2024-05-24,Active
+E0192,Ishaan,Johnson,Senior Sales Associate,S012,2019-10-19,Active
+E0193,Sophie,Wang,Department Lead,S013,2024-04-25,Active
+E0194,Noah,Thomas,Department Lead,S014,2012-01-04,Active
+E0195,Kiran,Wang,Sales Associate,S015,2023-07-07,Active
+E0196,Chloe,Jones,Department Lead,S016,2025-03-30,Active
+E0197,Olivia,Nguyen,Senior Sales Associate,S017,2023-04-04,Active
+E0198,Priya,White,Sales Associate,S018,2024-12-29,Active
+E0199,Grace,Harris,Sales Associate,S019,2022-12-12,Active
+E0200,Olivia,Sharma,Sales Associate,S020,2020-09-14,Active
+E0201,Sofia,Kim,Sales Associate,S021,2017-11-10,Active
+E0202,Leo,Johnson,Sales Associate,S022,2015-02-18,Active
+E0203,Ali,Harris,Department Lead,S023,2019-08-08,Active
+E0204,Kabir,Patel,Senior Sales Associate,S024,2016-05-08,Active
+E0205,Kiran,Lee,Sales Associate,S025,2019-08-22,Active
+E0206,Kabir,Sharma,Sales Associate,S026,2020-08-11,Active
+E0207,Ishaan,Wang,Sales Associate,S027,2024-11-29,Inactive
+E0208,Aarav,Lewis,Department Lead,S028,2023-03-19,Active
+E0209,Fatima,Thomas,Senior Sales Associate,S029,2024-05-23,Active
+E0210,Charlotte,Wang,Sales Associate,S030,2022-05-31,Active
+E0211,Ali,Harris,Sales Associate,S031,2018-10-17,Active
+E0212,Wei,Anderson,Sales Associate,S032,2018-07-03,Active
+E0213,Zoe,White,Sales Associate,S033,2019-06-21,Active
+E0214,Charlotte,Clark,Sales Associate,S034,2022-06-25,Active
+E0215,Mateo,Kim,Sales Associate,S035,2024-07-31,Active
+E0216,Hana,Kaur,Sales Associate,S036,2019-02-27,Active
+E0217,Sophie,Chen,Sales Associate,S001,2022-11-05,Active
+E0218,Wei,Nguyen,Sales Associate,S002,2022-09-29,Active
+E0219,Mia,Nguyen,Department Lead,S003,2018-03-01,Active
+E0220,Ava,Wang,Senior Sales Associate,S004,2022-01-17,Active

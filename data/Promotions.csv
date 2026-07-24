@@ -1,0 +1,19 @@
+PromotionID,PromotionName,StartDate,EndDate,ApplicableCategories,DiscountRate,Channel
+PR001,New Year Refresh,2023-01-02,2023-01-15,Home & Living|Furniture,0.15,In-store
+PR002,Back to Work,2023-01-16,2023-02-05,Office Supplies|Electronics,0.12,All
+PR003,EOFY Sale,2023-06-15,2023-06-30,All,0.18,All
+PR004,Spring Home Event,2023-09-01,2023-09-17,Home & Living|Furniture|Kitchen,0.14,Online
+PR005,Black Friday,2023-11-20,2023-11-27,All,0.24,All
+PR006,Christmas Gifting,2023-12-01,2023-12-24,Electronics|Kitchen|Home & Living,0.12,All
+PR007,New Year Refresh,2024-01-02,2024-01-14,Home & Living|Furniture,0.15,In-store
+PR008,Back to Work,2024-01-15,2024-02-04,Office Supplies|Electronics,0.12,All
+PR009,EOFY Sale,2024-06-14,2024-06-30,All,0.19,All
+PR010,Spring Home Event,2024-09-02,2024-09-18,Home & Living|Furniture|Kitchen,0.14,All
+PR011,Black Friday,2024-11-18,2024-11-29,All,0.25,All
+PR012,Christmas Gifting,2024-12-01,2024-12-24,Electronics|Kitchen|Home & Living,0.12,In-store
+PR013,New Year Refresh,2025-01-02,2025-01-15,Home & Living|Furniture,0.16,All
+PR014,Back to Work,2025-01-16,2025-02-06,Office Supplies|Electronics,0.13,All
+PR015,EOFY Sale,2025-06-13,2025-06-30,All,0.2,All
+PR016,Spring Home Event,2025-09-01,2025-09-21,Home & Living|Furniture|Kitchen,0.15,All
+PR017,Black Friday,2025-11-17,2025-11-28,All,0.26,All
+PR018,Christmas Gifting,2025-12-01,2025-12-24,Electronics|Kitchen|Home & Living,0.13,All

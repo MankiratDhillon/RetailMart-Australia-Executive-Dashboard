@@ -1,0 +1,19 @@
+{
+  "project": "RetailMart Australia BI",
+  "seed": 4701,
+  "date_range": [
+    "2023-01-01",
+    "2025-12-31"
+  ],
+  "tables": {
+    "DimDate": 1096,
+    "DimStore": 36,
+    "DimEmployee": 220,
+    "DimCustomer": 18000,
+    "DimProduct": 480,
+    "Promotions": 18,
+    "FactSales": 150000,
+    "FactReturns": 7430,
+    "SalesTargets": 1296
+  }
+}

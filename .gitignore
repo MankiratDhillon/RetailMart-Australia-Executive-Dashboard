@@ -1,0 +1,22 @@
+# Power BI temporary and backup files
+*.pbit.tmp
+*.pbix.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary exports
+temp/
+exports/
